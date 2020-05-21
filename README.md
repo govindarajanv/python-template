@@ -1,7 +1,6 @@
 # Blueprint/Boilerplate For Python Projects
 
 ![Build, Test, Lint](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)
-[![Push Action](https://github.com/MartinHeinz/python-project-blueprint/workflows/Push/badge.svg)](https://github.com/https://github.com/MartinHeinz/python-project-blueprint/workflows/Push/badge.svg)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/886e337e84b79b1fb25e/test_coverage)](https://codeclimate.com/github/govindarajanv/python-template/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/886e337e84b79b1fb25e/maintainability)](https://codeclimate.com/github/govindarajanv/python-template/maintainability)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
