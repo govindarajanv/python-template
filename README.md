@@ -2,7 +2,7 @@
 
 ![Build, Test, Lint](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)
 [![Build, Test and Lint Action](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)](https://github.com/MartinHeinz/python-project-blueprint/workflows/Build,%20Test,%20Lint/badge.svg)
-[![Push Action](https://github.com/govindarajanv/python-template/workflows/Push/badge.svg)](https://github.com/https://github.com/govindarajanv/python-template/workflows/Push/badge.svg)
+[![Push Action](https://github.com/govindarajanv/python-template/workflows/Push/badge.svg)](https://github.com/govindarajanv/python-template/workflows/Push/badge.svg)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/05c44c881bc10a706cbc/test_coverage)](https://codeclimate.com/github/govindarajanv/python-template/test_coverage)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=alert_status)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
