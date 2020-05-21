@@ -37,10 +37,10 @@ jobs:
         curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
         chmod +x ./cc-test-reporter
         ./cc-test-reporter format-coverage -t coverage.py coverage.xml
-        ./cc-test-reporter upload-coverage -r "${{ secrets.CC_TEST_REPORTER_ID }}"
+        ./cc-test-reporter upload-coverage -r "${{ secrets.CC_TOKEN }}"
 
     - name: SonarCloud scanner
       uses: sonarsource/sonarcloud-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        SONAR_TOKEN: ${{ secrets.SONAR_CLOUD_TOKEN }}
