@@ -1,11 +1,13 @@
 # Blueprint/Boilerplate For Python Projects
 
 ![Build, Test, Lint](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)
-[![Build, Test and Lint Action](https://github.com/MartinHeinz/python-project-blueprint/workflows/Build,%20Test,%20Lint/badge.svg)](https://github.com/MartinHeinz/python-project-blueprint/workflows/Build,%20Test,%20Lint/badge.svg)
-[![Push Action](https://github.com/MartinHeinz/python-project-blueprint/workflows/Push/badge.svg)](https://github.com/https://github.com/MartinHeinz/python-project-blueprint/workflows/Push/badge.svg)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/05c44c881bc10a706cbc/test_coverage)](https://codeclimate.com/github/MartinHeinz/python-project-blueprint/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/05c44c881bc10a706cbc/maintainability)](https://codeclimate.com/github/MartinHeinz/python-project-blueprint/maintainability)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MartinHeinz_python-project-blueprint&metric=alert_status)](https://sonarcloud.io/dashboard?id=MartinHeinz_python-project-blueprint)
+[![Build, Test and Lint Action](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)](https://github.com/MartinHeinz/python-project-blueprint/workflows/Build,%20Test,%20Lint/badge.svg)
+[![Push Action](https://github.com/govindarajanv/python-template/workflows/Push/badge.svg)](https://github.com/https://github.com/govindarajanv/python-template/workflows/Push/badge.svg)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/05c44c881bc10a706cbc/test_coverage)](https://codeclimate.com/github/govindarajanv/python-template/test_coverage)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=alert_status)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=code_smells)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=sqale_index)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
 
 ## Blog Posts - More Information About This Repo
 
