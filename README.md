@@ -1,6 +1,11 @@
 # Blueprint/Boilerplate For Python Projects
 
+#### Github Actions
 ![Build, Test, Lint](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)
+#### Azure DevOps
+[![Build Status](https://dev.azure.com/govindarajanv/Govind-Pipelines/_apis/build/status/govindarajanv.python-template?branchName=master)](https://dev.azure.com/govindarajanv/Govind-Pipelines/_build/latest?definitionId=2&branchName=master)
+#### Travis CI
+[![Build Status](https://travis-ci.org/govindarajanv/python-template.svg?branch=master)](https://travis-ci.org/govindarajanv/python-template)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/886e337e84b79b1fb25e/test_coverage)](https://codeclimate.com/github/govindarajanv/python-template/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/886e337e84b79b1fb25e/maintainability)](https://codeclimate.com/github/govindarajanv/python-template/maintainability)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=govindarajanv_python-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=govindarajanv_python-project-blueprint)
