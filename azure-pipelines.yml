@@ -38,11 +38,11 @@ jobs:
       pytest tests --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
     displayName: 'Test with pytest'
 
-  - script: pip install tox
-    displayName: 'Install Tox'
+#  - script: pip install tox
+#    displayName: 'Install Tox'
 
-  - script: tox -e py
-    displayName: 'Run Tox'
+#  - script: tox -e py
+#    displayName: 'Run Tox'
 
   - task: PublishTestResults@2
     condition: succeededOrFailed()
