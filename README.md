@@ -4,7 +4,7 @@
 ![Build, Test, Lint](https://github.com/govindarajanv/python-template/workflows/Build,%20Test,%20Lint/badge.svg)
 #### Azure DevOps
 [![Build Status](https://dev.azure.com/govindarajanv/Govind-Pipelines/_apis/build/status/govindarajanv.python-template?branchName=master)](https://dev.azure.com/govindarajanv/Govind-Pipelines/_build/latest?definitionId=2&branchName=master)
-https://dev.azure.com/govindarajanv/Govind-Pipelines/_apis/build/status/govindarajanv.python-template?branchName=master
+![Build, Test, Lint](https://dev.azure.com/govindarajanv/Govind-Pipelines/_apis/build/status/govindarajanv.python-template?branchName=master)
 #### Travis CI
 [![Build Status](https://travis-ci.org/govindarajanv/python-template.svg?branch=master)](https://travis-ci.org/govindarajanv/python-template)
 #### Other Status Badges
