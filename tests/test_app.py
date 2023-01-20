@@ -1,5 +1,5 @@
 
-from context import blueprint
+from ../tests/context import blueprint
 
 
 def test_app(capsys, example_fixture):
